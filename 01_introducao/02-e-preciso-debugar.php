@@ -19,6 +19,6 @@
         Pondendo estar na head ou no body (geralmente no final)
     -->
 
-    <script src="script.js"></script> <!-- Arquivo para criar as minhas rotinas de manipulação --> 
+    <script src="script02.js"></script> <!-- Arquivo para criar as minhas rotinas de manipulação --> 
 </body>
 </html>
